@@ -1,2 +1,0 @@
-# PostsAndUserDetails
-Created with CodeSandbox
